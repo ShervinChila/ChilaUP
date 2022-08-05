@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://bikhi.com",
+  "repository": "https://github.com/ShervinChila/ChilaUP",
   "logo": "https://telegra.ph/file/4b00e8ecab5dd31257ed9.jpg",
   "env": {
     "TG_BOT_TOKEN": {
